@@ -19,32 +19,40 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the following command to create a RAT Application: <br/>
+<img src="https://i.imgur.com/7JgmO0B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Share the RAT app to victim mobile:  <br/>
+<img src="https://i.imgur.com/GJtP2ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install the App: <br/>
+<img src="https://i.imgur.com/l2Ry84A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I am using MSFconsole as a listner:  <br/>
+<img src="https://i.imgur.com/hrJBBBV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure the listner:  <br/>
+<img src="https://i.imgur.com/lPBvTTb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Checking all the requirements are fullfied :  <br/>
+<img src="https://i.imgur.com/e8h4cJc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Give all the permission to RAT app:  <br/>
+<img src="https://i.imgur.com/iJViMX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Run the exploit:  <br/>
+<img src="https://i.imgur.com/jvT0Xb8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+We capture the information in MSFconsole:  <br/>
+<img src="https://i.imgur.com/QUuX5bi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
